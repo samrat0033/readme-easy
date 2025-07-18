@@ -2,7 +2,7 @@
 ReadmeEasy is an AI-powered tool designed to streamline the creation of professional and comprehensive `README.md` files. Simply provide a few project details, and our intelligent system crafts a perfectly formatted, engaging README, saving you time and effort.
 
 ## 🚀 Live Demo
-[Visit ReadmeEasy](<https://readmeeasy.vercel.app>)
+[Visit ReadmeEasy](<https://readmegenerator-eight.vercel.app/>)
 
 ## ✨ Features
 - 🌟 AI-powered README generation
